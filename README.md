@@ -6,3 +6,4 @@ comandos de git
 aprender git
 todo esta muy chrevre
 creado por el increible jhonatan
+incluye ejemplos en windows linux y mac
